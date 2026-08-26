@@ -10,5 +10,5 @@ E-mail: karenbraga2007@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/karendsbraga/
 
-Dev.to: @kren_braga
+Dev.to: https://dev.to/kren_braga
 

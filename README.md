@@ -23,5 +23,5 @@ Sou uma **Estudante de Análise e Desenvolvimento de Sistemas (ADS)** e **Técni
 ### 📫 Como me encontrar
 
 [![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@email.com)](mailto:karenbraga2007@email.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/seuperfil)](https://www.linkedin.com/in/karendsbraga/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/seuperfil)](https://www.linkedin.com/in/karendsbraga/)
 
